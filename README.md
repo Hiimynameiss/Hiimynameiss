@@ -10,8 +10,6 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&size=25&pause=1000&color=572829&vCenter=true&width=435&height=35&lines=Contact)](https://git.io/typing-svg)
 
-a8662a58-3aa6-42a1-907b-f8e8aa8e1fc4
-
 <a href="mailto:sh2410152@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sh2410152@sookmyung.ac.kr"/></a>  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/서현-송-25b34430b/)](https://www.linkedin.com/in/서현-송-25b34430b)
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&size=25&pause=1000&color=572829&vCenter=true&width=435&height=35&lines=Experienced)](https://git.io/typing-svg)
