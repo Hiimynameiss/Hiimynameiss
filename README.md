@@ -14,17 +14,17 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&size=25&pause=1000&color=572829&vCenter=true&width=435&height=35&lines=Experienced)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Java-e1e0e0?style=flat-square&logo=openjdk&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-bfdcb7?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>   <img src="https://img.shields.io/badge/html5-f4b9a9?style=flat-square&logo=html5&logoColor=E34F26"/>   <img src="https://img.shields.io/badge/CSS-d4bee9?style=flat-square&logo=css&logoColor=663399"/>   <img src="https://img.shields.io/badge/javascript-fcf4b0?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-c6b3ff?style=flat-square&logo=Kotlin&logoColor=7F52FF"/>  <img src="https://img.shields.io/badge/android-b1f1ce?style=flat-square&logo=android&logoColor=3DDC84"/>
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python-8bb6da?style=flat-square&logo=python&logoColor=3776AB"/>
 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-999494?style=flat-square&logo=github&logoColor=181717"/>   <img src="https://img.shields.io/badge/git-f9b6a9?style=flat-square&logo=git&logoColor=F05032"/>
 
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_ec2-faba7f?style=flat-square&logo=Amazon_ec2&logoColor=181717"/>   <img src="https://img.shields.io/badge/Amazon_S3-ff877a?style=flat-square&logo=S3&logoColor=F05032"/>
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&size=25&pause=1000&color=572829&vCenter=true&width=435&height=35&lines=Projects)](https://git.io/typing-svg)
 
