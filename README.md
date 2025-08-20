@@ -33,7 +33,7 @@
 | DOG🐶| 반려견 산책 자동 리드줄          | -None-       |
 | smart Factory🦺 | 스마트 팩토리 에너지 예측 및 대시 보드 개발 | https://github.com/Hiimynameiss/AWSProject |
 | Treading📖 | 교환 독서 애플리케이션 | https://github.com/Hiimynameiss/OOP_Team|
-| 혜윰🗣️| 치매 환자 대상 기억력 개선 서비스 | https://github.com/pradahk/OSS_final |
+| 혜윰🗣️| 치매 환자 대상 기억력 개선 서비스 | https://github.com/Hiimynameiss/OSS_final |
 | 도란도란📕| 사람들과 함께 책을 읽을 수 있는 애플리케이션 | https://github.com/SOLUX-DoranDoran |
 | SNOWTIME❄️| 강의실 시간표를 더 쉽게 볼 수 있는 웹 서비스 | https://github.com/SNOW-TIME|
 
