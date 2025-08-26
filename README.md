@@ -37,6 +37,8 @@
 | 도란도란📕| 사람들과 함께 책을 읽을 수 있는 애플리케이션 | https://github.com/SOLUX-DoranDoran |
 | SNOWTIME❄️| 강의실 시간표를 더 쉽게 볼 수 있는 웹 서비스 | https://github.com/SNOW-TIME|
 
+<!--
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&size=25&pause=1000&color=572829&vCenter=true&width=435&height=35&lines=Streak+Stats)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Hiimynameiss&theme=rose&hide_border=true&border_radius=30&date_format=%5BY.%5Dn.j&mode=weekly&background=45%2CF06969DC%2CE9EED8E6)](https://git.io/streak-stats)
+-->
