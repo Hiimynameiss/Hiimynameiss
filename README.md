@@ -36,6 +36,7 @@
 | 혜윰🗣️| 치매 환자 대상 기억력 개선 서비스 | https://github.com/Hiimynameiss/OSS_final |
 | 도란도란📕| 사람들과 함께 책을 읽을 수 있는 애플리케이션 | https://github.com/SOLUX-DoranDoran |
 | SNOWTIME❄️| 강의실 시간표를 더 쉽게 볼 수 있는 웹 서비스 | https://github.com/SNOW-TIME|
+| Mogle👥 | 친구들과 함께 쓰는 공유 다이어리 웹 서비스 | https://github.com/WebProgramming-2025-2 |
 
 <!--
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&size=25&pause=1000&color=572829&vCenter=true&width=435&height=35&lines=Streak+Stats)](https://git.io/typing-svg)
