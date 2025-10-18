@@ -38,7 +38,7 @@
 | SNOWTIME❄️| 강의실 시간표를 더 쉽게 볼 수 있는 웹 서비스 | https://github.com/SNOW-TIME|
 | Mogle👥 | 친구들과 함께 쓰는 공유 다이어리 웹 서비스 | https://github.com/WebProgramming-2025-2 |
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiimynameiss&theme=flag-india&show_icons=true)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeverycode&theme=flag-india&show_icons=true)-->
 
 <!--
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mozilla+Headline&size=25&pause=1000&color=572829&vCenter=true&width=435&height=35&lines=Streak+Stats)](https://git.io/typing-svg)
