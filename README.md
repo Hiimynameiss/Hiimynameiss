@@ -36,7 +36,7 @@
 | 혜윰🗣️| 치매 환자 대상 기억력 개선 서비스 | https://github.com/Hiimynameiss/OSS_final |
 | 도란도란📕| 사람들과 함께 책을 읽을 수 있는 애플리케이션 | https://github.com/SOLUX-DoranDoran |
 | SNOWTIME❄️| 강의실 시간표를 더 쉽게 볼 수 있는 웹 서비스 | https://github.com/SNOW-TIME|
-| Day Month Diary📗 | 친구들과 함께 쓰는 공유 다이어리 웹 서비스 | https://github.com/WebProgramming-2025-2 |
+| Day Month Diary📗 | 친구들과 함께 쓰는 공유 다이어리 웹 서비스 | https://github.com/WebProgramming-2025-2/New_Front |
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeverycode&theme=flag-india&show_icons=true)-->
 
