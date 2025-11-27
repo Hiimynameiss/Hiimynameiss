@@ -1,5 +1,5 @@
 # 🐰 Hi, I'm SeoHyun!
-### Welcome to my GitHub Profile🎉
+### `Welcome to my GitHub Hiimynameiss`🎉
 
 <img align="right" src="https://github.com/user-attachments/assets/bf0a20bd-baf7-4b07-8075-629e59de2b09" width="180" height="auto" alt="Miffy Says HI">
 
