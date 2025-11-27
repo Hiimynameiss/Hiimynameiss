@@ -1,7 +1,7 @@
 # 🐰 Hi, I'm SeoHyun!
 ### Welcome to my GitHub Profile🎉
 
-<img align="right" src="" width="180" height="auto" alt="Miffy Says HI">
+<img align="right" src="https://github.com/user-attachments/assets/bf0a20bd-baf7-4b07-8075-629e59de2b09" width="180" height="auto" alt="Miffy Says HI">
 
 **Studying to be PRO developer( •̀ ω •́ )y**
 <br>🌷 새로운 기술을 배우고 적용하는 과정에서 즐거움을 느낍니다.
@@ -29,14 +29,14 @@
 
 ### 🏡 Projects
 
-| Project Name | Description | Link |
+| Project Name | Description | 🔗 |
 | :--- | :--- | :--- |
-| **Day Month Diary** | 친구들과 함께 쓰는 공유 다이어리 웹 서비스 | [📗](https://github.com/WebProgramming-2025-2/New_Front) |
-| **SNOWTIME** | 강의실 시간표를 더 쉽게 볼 수 있는 웹 서비스 | [❄️](https://github.com/SNOW-TIME) |
-| **도란도란** | 사람들과 함께 책을 읽을 수 있는 독서 앱 | [📕](https://github.com/SOLUX-DoranDoran) |
-| **혜윰** | 치매 환자 대상 기억력 개선 서비스 | [🗣️](https://github.com/Hiimynameiss/OSS_final) |
-| **Treading** | 교환 독서 애플리케이션 | [📖](https://github.com/Hiimynameiss/OOP_Team) |
-| **Smart Factory** | 스마트 팩토리 에너지 예측 및 대시 보드 | [🦺](https://github.com/Hiimynameiss/AWSProject) |
-| **DOG** | 반려견 산책 자동 리드줄 | 🐶 |
+| Day Month Diary | 친구들과 함께 쓰는 공유 다이어리 웹 서비스 | [📗](https://github.com/WebProgramming-2025-2/New_Front) |
+| SNOWTIME | 강의실 시간표를 더 쉽게 볼 수 있는 웹 서비스 | [❄️](https://github.com/SNOW-TIME) |
+| 도란도란 | 사람들과 함께 책을 읽을 수 있는 독서 앱 | [📕](https://github.com/SOLUX-DoranDoran) |
+| 혜윰 | 치매 환자 대상 기억력 개선 서비스 | [🗣️](https://github.com/Hiimynameiss/OSS_final) |
+| Treading | 교환 독서 애플리케이션 | [📖](https://github.com/Hiimynameiss/OOP_Team) |
+| Smart Factory | 스마트 팩토리 에너지 예측 및 대시 보드 | [🦺](https://github.com/Hiimynameiss/AWSProject) |
+| DOG | 반려견 산책 자동 리드줄 | 🐶 |
 
 <br>
