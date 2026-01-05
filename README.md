@@ -31,6 +31,7 @@
 
 | Project Name | Description | 🔗 |
 | :--- | :--- | :--- |
+| 연등 | 각자의 불빛을 모아 거대한 행동의 물결로, 연대 활동을 연결하는 플랫폼 | [🕯️](https://github.com/Solux-WebBeing) |
 | Day Month Diary | 친구들과 함께 쓰는 공유 다이어리 웹 서비스 | [📗](https://github.com/WebProgramming-2025-2/New_Front) |
 | SNOWTIME | 강의실 시간표를 더 쉽게 볼 수 있는 웹 서비스 | [❄️](https://github.com/SNOW-TIME) |
 | 도란도란 | 사람들과 함께 책을 읽을 수 있는 독서 앱 | [📕](https://github.com/SOLUX-DoranDoran) |
