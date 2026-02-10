@@ -35,7 +35,7 @@
 | Day Month Diary | 친구들과 함께 쓰는 공유 다이어리 웹 서비스 | [📗](https://github.com/WebProgramming-2025-2/New_Front) |
 | SNOWTIME | 강의실 시간표를 더 쉽게 볼 수 있는 웹 서비스 | [❄️](https://github.com/SNOW-TIME) |
 | 도란도란 | 사람들과 함께 책을 읽을 수 있는 독서 앱 | [📕](https://github.com/SOLUX-DoranDoran) |
-| 혜윰 | 치매 환자 대상 기억력 개선 서비스 | [🗣️](https://github.com/Hiimynameiss/OSS_final) |
+| 혜윰 | 치매 환자 대상 기억력 개선 서비스 | [🗣️](https://github.com/HyeyumProject) |
 | Treading | 교환 독서 애플리케이션 | [📖](https://github.com/Hiimynameiss/OOP_Team) |
 | Smart Factory | 스마트 팩토리 에너지 예측 및 대시 보드 | [🦺](https://github.com/Hiimynameiss/AWSProject) |
 | DOG | 반려견 산책 자동 리드줄 | 🐶 |
