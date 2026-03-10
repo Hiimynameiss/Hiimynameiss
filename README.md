@@ -1,12 +1,16 @@
 # 🐰 Hi, I'm SeoHyun!
 ### `Welcome to my GitHub Hiimynameiss`🎉
 
-<img align="right" src="https://github.com/user-attachments/assets/bf0a20bd-baf7-4b07-8075-629e59de2b09" width="180" height="auto" alt="Miffy Says HI">
+<!-- <img align="right" src="https://github.com/user-attachments/assets/bf0a20bd-baf7-4b07-8075-629e59de2b09" width="180" height="auto" alt="Miffy Says HI"> -->
 
 **Student to be Pro developer( •̀ ω •́ )✧**
 <br>🌷 새로운 기술을 배우고 적용하는 과정에서 즐거움을 느낍니다.
 
 <br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Hiimynameiss"/>
+</a>
 
 ### 📫 Contact
 
