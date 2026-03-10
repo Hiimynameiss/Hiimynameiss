@@ -8,8 +8,12 @@
 
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Hiimynameiss"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hiimynameiss&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Hiimynameiss"
+  width="600"
+  height="300"
+/>
 </a>
 
 ### 📫 Contact
