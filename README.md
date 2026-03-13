@@ -4,7 +4,7 @@
 <!-- <img align="right" src="https://github.com/user-attachments/assets/bf0a20bd-baf7-4b07-8075-629e59de2b09" width="180" height="auto" alt="Miffy Says HI"> -->
 
 **Student to be Pro developer( •̀ ω •́ )✧**
-<br>🌷 새로운 기술을 배우고 적용하는 과정에서 즐거움을 느낍니다.
+<br>🌷 열정을 가지고 협업할 준비가 되어 있는 학생 개발자 🌷
 
 <br>
 
@@ -31,6 +31,13 @@
 <img src="https://img.shields.io/badge/HTML5-fbc701?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-fbc701?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Android-fbc701?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-fbc701?style=flat-square&logo=flutter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Node.js-276932?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_EC2-276932?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_S3-276932?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Git-276932?style=flat-square&logo=git&logoColor=white"/>
+
+<br>
+<br>
+
+### 🗨️ Experiences
+- 2025.03 ~ 2026.02 | 숙명여자대학교 프로그래밍 중앙 동아리 SOLUX 개발 부원
+- 2025.09 ~ Present | GDGoC Sookmyung member
 
 <br>
 <br>
