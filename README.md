@@ -47,6 +47,7 @@
 
 | Project Name | Description | 🔗 |
 | :--- | :--- | :--- |
+| Blur | 기록으로 묶어두는 대신, 오래 담아두었던 '나'의 감정을 소각하는 공간 | [😶‍🌫️](https://github.com/SOPT-all/38-SOPKATHON-ANDROID-ANDROID3) |
 | 사막 | 취업 준비생을 향한 취업 사기를 막자 | [🌵](https://github.com/2026-QUAD-S-Team-2) |
 | 연등 | 각자의 불빛을 모아 거대한 행동의 물결로, 연대 활동을 연결하는 플랫폼 | [🕯️](https://github.com/Solux-WebBeing) |
 | Day Month Diary | 친구들과 함께 쓰는 공유 다이어리 웹 서비스 | [📗](https://github.com/WebProgramming-2025-2/New_Front) |
