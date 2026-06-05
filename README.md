@@ -37,7 +37,7 @@
 
 ### 🗨️ Experiences
 - 2025.03 ~ 2026.02 | 숙명여자대학교 프로그래밍 중앙 동아리 SOLUX 개발 부원
-- 2025.09 ~ Present | GDGoC Sookmyung member
+- 2025.09 ~ 2026.06 | GDGoC Sookmyung member
 - 2026.03 ~ Present | SOPT Android member
 
 <br>
