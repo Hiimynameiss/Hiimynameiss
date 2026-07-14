@@ -26,11 +26,11 @@
 
 ### 🥕 Tech Stack
 
-<img src="https://img.shields.io/badge/Java-eb6100?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Python-eb6100?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-eb6100?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-eb6100?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-eb6100?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-eb6100?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-eb6100?style=flat-square&logo=javascript&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HTML5-fbc701?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-fbc701?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Android-fbc701?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-fbc701?style=flat-square&logo=flutter&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Node.js-276932?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_EC2-276932?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon_S3-276932?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/Git-276932?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-276932?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Git-276932?style=flat-square&logo=git&logoColor=white"/>
 
 <br>
 <br>
