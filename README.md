@@ -47,7 +47,7 @@
 
 | Project Name | Description | 🔗 |
 | :--- | :--- | :--- |
-| 합합 | 지원 이후 보이지 않던 기다림을 더 선명하게 | [✨](https://github.com/team-haphap/haphap-android) |
+| HAPHAP | 지원 이후 보이지 않던 기다림을 더 선명하게 | [✨](https://github.com/team-haphap/haphap-android) |
 | Blur | 기록으로 묶어두는 대신, 오래 담아두었던 '나'의 감정을 소각하는 공간 | [😶‍🌫️](https://github.com/SOPT-all/38-SOPKATHON-ANDROID-ANDROID3) |
 | 사막 | 취업 준비생을 향한 취업 사기를 막자 | [🌵](https://github.com/2026-QUAD-S-Team-2) |
 | 연등 | 각자의 불빛을 모아 거대한 행동의 물결로, 연대 활동을 연결하는 플랫폼 | [🕯️](https://github.com/Solux-WebBeing) |
